@@ -91,5 +91,3 @@ This project is licensed under the MIT License.
 - [Tailwind CSS](https://tailwindcss.com/) for styling the frontend.
 
 ---
-
-Feel free to modify any sections to better fit your project or add any additional information that you think is necessary!

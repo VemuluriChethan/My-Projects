@@ -21,11 +21,11 @@ The Simple To-Do List App is a web-based application designed to help users mana
 
 To run the Simple To-Do List App locally, follow these steps:
 
-1. **Clone the Repository** (if applicable):
+1. **Clone the Repository** :
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/VemuluriChethan/My-Projects.git>
+   cd <Projects/todo-app>
    ```
 
 2. **Open the HTML File**:

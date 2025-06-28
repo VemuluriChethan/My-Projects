@@ -73,21 +73,15 @@ To get started with any of the projects, navigate to the respective project dire
 You can clone this repository to your local machine using the following command:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/VemuluriChethan/My-Projects.git>
 ```
 
 ### .gitignore
 
 The `.gitignore` file is included to specify files and directories that should be ignored by Git. This helps keep the repository clean and free of unnecessary files.
 
-## Contributing
-
-If you would like to contribute to any of the projects, feel free to fork the repository and submit a pull request. Contributions are always welcome!
-
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the MIT LICENSE.
 
 ---
-
-Feel free to customize this README to better fit your projects and personal style!
