@@ -1,0 +1,27 @@
+@'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# Data files
+*.pkl
+*.joblib
+models/
+reports/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+'@ | Out-File -Encoding utf8 .gitignore
